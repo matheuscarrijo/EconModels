@@ -2,7 +2,7 @@
 Economic models in Python
 
 
-Including the following economic models: 
+Includes the following economic models: 
 (1) supply and demand;
 (2) Solow's model (growth theory);
 (3) IS-LM model (national income);
